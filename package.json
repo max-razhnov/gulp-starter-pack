@@ -1,0 +1,27 @@
+{
+  "name": "gulp-starter-pack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/max-razhnov/gulp-starter-pack.git"
+  },
+  "author": "max razhnov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/max-razhnov/gulp-starter-pack/issues"
+  },
+  "homepage": "https://github.com/max-razhnov/gulp-starter-pack#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
+    "gulp-watch": "^5.0.1"
+  }
+}
